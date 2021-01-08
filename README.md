@@ -8,11 +8,11 @@
 
 ### Languages and Tools I use:
 
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudio.svg" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudiocode.svg" />]
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/csharp.svg" />]
-[<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/dot-net.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/html5.svg" />]
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudio.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudiocode.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/csharp.svg" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/dot-net.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/html5.svg" />
 
 ### You can Contact me:
 
