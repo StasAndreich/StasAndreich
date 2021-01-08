@@ -14,6 +14,8 @@
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/dot-net.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/html5.svg" />
 
+<br/>
+
 ### You can Contact me:
 
 [<img align="left" alt="smedyancev@gmail.com | Google Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
