@@ -1,18 +1,23 @@
 ### Yep, sir!
 
 ## I'm some kind of a .NET developer, actually.
-- 🛠 Currently approaching EPAM internal labs
 - 💣 Learning modern technologies as fast as...
-- 📦 Freelancing on projects for small businesses
 - ❤️ Mountain Biking 
+
+### Maybe useful <img src="https://img.icons8.com/color/22/000000/chrome--v3.png"/> Chrome extension:
+* [Belpost Tracking Tool](https://github.com/StasAndreich/BelpostTracking/releases)
 
 ### Languages and Tools I use:
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudio.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/visualstudiocode.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/csharp.svg" />
-<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/dot-net.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/html5.svg" />
+<img align="left" alt="Visual Studio 2019" src="https://img.icons8.com/fluent/32/000000/visual-studio-2019.png" />
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/32/000000/visual-studio-code-2019.png" />
+<img align="left" alt="C#" src="https://img.icons8.com/color/32/000000/c-sharp-logo-2.png" />
+<img align="left" alt=".NET" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/dot-net.svg" />
+<img align="left" alt="Sql" src="https://img.icons8.com/nolan/32/sql.png"/>
+<img align="left" alt="HTML5" src="https://img.icons8.com/color/32/000000/html-5.png" />
+<img align="left" alt="Css" src="https://img.icons8.com/color/32/000000/css3.png"/>
+<img align="left" alt="Js" src="https://img.icons8.com/color/32/000000/javascript.png"/>
+<img align="left" alt="Ts" src="https://img.icons8.com/color/32/000000/typescript.png"/>
 
 <br/>
 
