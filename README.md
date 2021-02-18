@@ -1,8 +1,8 @@
-### Yep, sir!
+### <img src="src/x3.gif" width="50px"> Yep, sir!
 
 ## I'm some kind of a .NET developer, actually.
-- 💣 Learning modern technologies as fast as...
-- ❤️ Mountain Biking 
+ 💣 Learning modern technologies as fast as... <br/>
+<img src="src/thinking.gif" width="240px">
 
 ### Maybe useful <img src="https://img.icons8.com/color/22/000000/chrome--v3.png"/> Chrome extension:
 * [Belpost Tracking Tool](https://github.com/StasAndreich/BelpostTracking/releases)
