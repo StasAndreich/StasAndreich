@@ -1,4 +1,4 @@
-### <img src="src/x3.gif" width="50px"> Yep, sir!
+### Yep, sir!
 
 ## I'm some kind of a .NET developer, actually.
  💣 Learning modern technologies as fast as... <br/>
