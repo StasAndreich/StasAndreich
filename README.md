@@ -1,6 +1,8 @@
 ### Yep, sir!
 
 ## I'm some kind of a .NET developer, actually.
+#### *with a REACTive pinch of a TypeScript'ish Reduxing
+
  💣 Learning modern technologies as fast as... <br/>
 <img src="src/thinking.gif" width="220px">
 
