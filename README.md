@@ -10,9 +10,6 @@
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c%20sharp&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Platform-.NET%205-informational?style=flat-square&logo=.net&logoColor=white&color=5194f0)
 
-### Maybe useful <img src="https://img.icons8.com/color/22/000000/chrome--v3.png"/> Chrome extension:
-* [Belpost Tracking Tool](https://github.com/StasAndreich/BelpostTracking/releases)
-
 ### 📈 Stats
 <p align="center">
   <table>
