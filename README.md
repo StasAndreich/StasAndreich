@@ -1,15 +1,13 @@
-# hi there ^_____^
+# 🦄 hi there ^_____^
 
-### i'm a fullstacking dev, actually
-### _.NET, React, Azure, CAPS LOCK_
+### full-stack | all-in
+_dotnet, react, CAPS LOCK_
+
+🛠 macOS & VSC | C# & TypeScript
 
 <!--<img src="src/thinking.gif" width="200px">-->
 
-### 🚀 using...
-* macOS & VSC
-* C# & TypeScript
-
-### 📊 how about fancy graphs?
+### 🤡 fancy graphs
 <p align="center">
   <table>
   <tr>
