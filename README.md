@@ -1,9 +1,7 @@
 # 🦄 hi there ^_____^
 
 ### full-stack | all-in
-_dotnet, react, CAPS LOCK_
-
-🛠 macOS & VSC | C# & TypeScript
+🛠 _dotnet, react, CAPS LOCK_
 
 <!--<img src="src/thinking.gif" width="200px">-->
 
