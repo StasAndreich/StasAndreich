@@ -1,11 +1,11 @@
-# 🦄 hi there ^_____^
+# hi there!
 
-### full-stack | all-in
-🛠 _dotnet, react, CAPS LOCK_
+👾 full-stack | dotnet | react | azure | CAPS_LOCK
 
-<!--<img src="src/thinking.gif" width="200px">-->
+<img width="175px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/clown-face_1f921.png" />
 
-### 🤡 fancy graphs
+### fancy graphs
+
 <p align="center">
   <table>
   <tr>
