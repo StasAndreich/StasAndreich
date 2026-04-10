@@ -1,1 +1,2 @@
-## 🤡 full stack | dotnet | react | azure | CAPS_LOCK
+## About me
+go | .net | ts | snake_case 🐍
